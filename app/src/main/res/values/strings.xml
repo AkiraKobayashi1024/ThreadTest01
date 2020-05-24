@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThreadTest01</string>
+    <string name="button1Text">Button1</string>
+    <string name="Button2Text">Button2</string>
+    <string name="button3Text">Button3</string>
+    <string name="button4">Button4</string>
+</resources>
